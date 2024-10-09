@@ -1,7 +1,6 @@
 {
-  "mac_addresses": [
-    "0A0027000009",
-    "CCDD001343FF",
-    "CCGG342FA233"
-  ]
+    "macAddresses": [
+        "00:1A:2B:3C:4D:5E",
+        "01:2B:3C:4D:5E:6F"
+    ]
 }
