@@ -1,7 +1,7 @@
 {
-  "mac_addresses": {
-    "1": { "mac": "0A0027000009" },
-    "2": { "mac": "CCDD001343FF" },
-    "3": { "mac": "CCGG342FA233" }
-  }
+  "mac_addresses": [
+    "0A0027000009",
+    "CCDD001343FF",
+    "CCGG342FA233"
+  ]
 }
